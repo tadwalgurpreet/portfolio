@@ -45,7 +45,7 @@ const Contact = () => {
                 <p>If you have any questions or want to discuss a project, feel free to reach out!</p>
                 <div className="contact-details">
                     <div className="contact-detail">
-                        <a href="https://www.linkedin.com/in/gurpreet-singh-3b816a222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                        <a href="https://www.linkedin.com/in/gurpreet-singh-3b816a222/"
                         target="_blank" 
                         rel="noreferrer"
                         className="contact-detail linkedin-detail">
