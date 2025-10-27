@@ -4,7 +4,7 @@ import profile_img from '../../assets/profile_img.jpg'
 import App from "../../App"
 import './Hero.css'
 import AnchorLink from "react-anchor-link-smooth-scroll"
-import Gurpreet_Singh_Resume from '../../assets/Gurpreet_Singh_Resume.pdf'
+import Gurpreet_Singh_Resume from '../../assets/Gurpreet_singh_resume.pdf'
 
 const Hero = () => {
   const openResume = () => {
