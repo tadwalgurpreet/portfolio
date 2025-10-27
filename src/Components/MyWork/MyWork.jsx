@@ -1,7 +1,7 @@
 import React from "react"
 import './MyWork.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
-import mywork_data from "../../assets/MyWork_data"
+import mywork_data from "../../assets/mywork_data"
 
 const MyWork = () => {
   return (
