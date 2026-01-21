@@ -8,7 +8,7 @@ import Gurpreet_Singh_Resume from '../../assets/Gurpreet_Singh_Resume.pdf'
 
 const Hero = () => {
   const openResume = () => {
-    window.open(Gurpreet_Singh_Resume, "_blank");
+    window.open(Gurpreet_singh_resume, "_blank");
   };
 const openGitHub = () => {
     window.open("https://github.com/tadwalgurpreet", "_blank");
