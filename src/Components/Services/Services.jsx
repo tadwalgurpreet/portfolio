@@ -16,7 +16,10 @@ const Services = () => {
                 return <div key={index} className="services-format">
                     <h3>{service.s_no}</h3>
                     <h2>{service.s_name}</h2>
-                    <p>{service.s_desc}</p>
+                    <p className="services-short-desc">{service.s_desc}</p>
+                    <div className="services-detail">
+                        <p className="services-detail-text">{service.s_detail}</p>
+                    </div>
                     <div className="services-readmore">
                         <p>Read More</p>
                         <img src={arrow_icon} alt="" />
